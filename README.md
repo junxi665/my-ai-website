@@ -10,4 +10,4 @@ A Chinese-language directory of AI tools, built with Next.js, React, TypeScript 
 ## Deployment
 This repository is configured for static export to GitHub Pages. The GitHub Actions workflow builds the site and deploys the `out` directory. In the repository, open **Settings → Pages** and set the source to **GitHub Actions**.
 
-The public project URL is expected to be `https://junxi665.github.io/my-ai-website/` after a successful deployment.
+The expected site URL is `https://junxi665.github.io/my-ai-website/`.
